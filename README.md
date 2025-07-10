@@ -4,29 +4,29 @@ This repository contains an interactive HR Analysis Report, designed to provide 
 
 ## Table of Contents
 
-* [Project Overview](https://www.google.com/search?q=%23project-overview)
+* [Project Overview]
 
-* [Key Features](https://www.google.com/search?q=%23key-features)
+* [Key Features]
 
-* [Power Query Views](https://www.google.com/search?q=%23power-query-views)
+* [Power Query Views]
+  
+* [DAX Measures and Calculated Columns]
+  
+* [Dataset Fields]
 
-* [DAX Measures and Calculated Columns](https://www.google.com/search?q=%23dax-measures-and-calculated-columns)
+* [Dashboards]
 
-* [Dataset Fields](https://www.google.com/search?q=%23dataset-fields)
+  * [Employee Overview & Trends]
 
-* [Dashboards](https://www.google.com/search?q=%23dashboards)
+  * [Performance, Compensation & Data Quality]
 
-  * [Employee Overview & Trends](https://www.google.com/search?q=%23employee-overview--trends)
+* [How to Use]
 
-  * [Performance, Compensation & Data Quality](https://www.google.com/search?q=%23performance-compensation--data-quality)
+* [Future Enhancements]
 
-* [How to Use](https://www.google.com/search?q=%23how-to-use)
+* [Contact]
 
-* [Future Enhancements](https://www.google.com/search?q=%23future-enhancements)
-
-* [Contact](https://www.google.com/search?q=%23contact)
-
-* [License](https://www.google.com/search?q=%23license)
+* [License]
 
 ## Project Overview
 

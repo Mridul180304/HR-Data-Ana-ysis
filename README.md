@@ -4,29 +4,29 @@ This repository contains an interactive HR Analysis Report, designed to provide 
 
 ## Table of Contents
 
-* [Project Overview]
+* Project Overview
 
-* [Key Features]
+* Key Features
 
-* [Power Query Views]
+* Power Query Views
   
-* [DAX Measures and Calculated Columns]
+* DAX Measures and Calculated Columns
   
-* [Dataset Fields]
+* Dataset Fields
 
-* [Dashboards]
+* Dashboards
 
-  * [Employee Overview & Trends]
+  * Employee Overview & Trends
 
-  * [Performance, Compensation & Data Quality]
+  * Performance, Compensation & Data Quality
 
-* [How to Use]
+* How to Use
 
-* [Future Enhancements]
+* Future Enhancements
 
-* [Contact]
+* Contact
 
-* [License]
+* License
 
 ## Project Overview
 
@@ -182,6 +182,7 @@ To view and interact with this report:
 ## Contact
 
 For any questions or suggestions, please feel free to reach out.
+Gmail- mridulchawla20@gmail.com
 
 ## License
 

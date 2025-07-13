@@ -16,9 +16,9 @@ This repository contains an interactive HR Analysis Report, designed to provide 
 
 * [Dashboards](#dashboards)
 
-  * [Employee Overview & Trends](#employee-overview-trends)
+  * [Employee Overview & Trends](#employee-overview---trends)
 
-  * [Performance, Compensation & Data Quality](#performance-compensation-data-quality)
+  * [Performance, Compensation & Data Quality](#performance--compensation---data-quality)
 
 * [How to Use](#how-to-use)
 

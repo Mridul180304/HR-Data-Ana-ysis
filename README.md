@@ -152,12 +152,12 @@ To view and interact with this report:
 1. **Clone the repository:**
 
    ```
-   git clone [https://github.com/your-username/HR-Analysis-Report.git](https://github.com/your-username/HR-Analysis-Report.git)
+   git clone [https://github.com/your-username/HR-Analysis-Report.git](https://github.com/Mridul180304/HR-Data-Analysis).git)
    
    ```
 
 2. **Open the Power BI file:**
-   Navigate to the cloned directory and open the `.pbix` file (e.g., `HR_Analysis_Report.pbix`) using Power BI Desktop.
+   Navigate to the cloned directory and open the `.pbix` file (e.g., `HR Report Analysis.pbix`) using Power BI Desktop.
 
 3. **Explore the Dashboards:**
    Switch between the "Employee Overview & Trends" and "Performance, Compensation & Data Quality" tabs at the bottom of the Power BI interface.

@@ -16,9 +16,9 @@ This repository contains an interactive HR Analysis Report, designed to provide 
 
 * [Dashboards](#dashboards)
 
-  * [Employee Overview & Trends](#employee-overview--trends)
+  * [Employee Overview & Trends](#employee-overview-trends)
 
-  * [Performance, Compensation & Data Quality](#performance-compensation--data-quality)
+  * [Performance, Compensation & Data Quality](#performance-compensation-data-quality)
 
 * [How to Use](#how-to-use)
 
@@ -107,7 +107,7 @@ The report consists of two primary dashboards:
 ### 1. Employee Overview & Trends
 
 This dashboard focuses on the overall employee landscape and key trends.
-
+![Employee Overview Dashboard](https://github.com/Mridul180304/HR-Data-Analysis/blob/main/Employee%20Overview.png)
 **Key Metrics & Visualizations:**
 
 * **No. of Active Employees:** Current count of active employees.
@@ -127,7 +127,7 @@ This dashboard focuses on the overall employee landscape and key trends.
 ### 2. Performance, Compensation & Data Quality
 
 This dashboard delves into employee performance, compensation aspects, and the integrity of HR data.
-
+![Performance Analysis Dashboard](https://github.com/Mridul180304/HR-Data-Analysis/blob/main/Performance.png)
 **Key Metrics & Visualizations:**
 
 * **Monthly Joiners & Exits:** Line chart tracking the count of new joiners and exits each year.

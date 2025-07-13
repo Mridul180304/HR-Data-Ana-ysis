@@ -152,7 +152,7 @@ To view and interact with this report:
 1. **Clone the repository:**
 
    ```
-   git clone [https://github.com/your-username/HR-Analysis-Report.git](https://github.com/Mridul180304/HR-Data-Analysis).git)
+   git clone [https://github.com/Mridul180304/HR-Data-Analysis.git](https://github.com/Mridul180304/HR-Data-Analysis.git)
    
    ```
 

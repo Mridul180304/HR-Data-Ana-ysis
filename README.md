@@ -107,7 +107,8 @@ The report consists of two primary dashboards:
 ### 1. Employee Overview & Trends
 
 This dashboard focuses on the overall employee landscape and key trends.
-![Employee Overview Dashboard](https://github.com/Mridul180304/HR-Data-Analysis/blob/main/Employee%20Overview.png)
+<img width="879" height="494" alt="image" src="https://github.com/user-attachments/assets/fb36303f-f296-4742-a672-dac42433e711" />
+
 **Key Metrics & Visualizations:**
 
 * **No. of Active Employees:** Current count of active employees.
@@ -127,7 +128,8 @@ This dashboard focuses on the overall employee landscape and key trends.
 ### 2. Performance, Compensation & Data Quality
 
 This dashboard delves into employee performance, compensation aspects, and the integrity of HR data.
-![Performance Analysis Dashboard](https://github.com/Mridul180304/HR-Data-Analysis/blob/main/Performance.png)
+<img width="873" height="498" alt="image" src="https://github.com/user-attachments/assets/f5d3d6fe-41d3-498a-a50c-5d82f7d94062" />
+
 **Key Metrics & Visualizations:**
 
 * **Monthly Joiners & Exits:** Line chart tracking the count of new joiners and exits each year.
